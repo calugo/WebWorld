@@ -4,7 +4,6 @@ try:
     import pandas as pd
     import numpy as np
     from numba import jit
-    import os
 
 except ImportError as e:
     sys.stderr.write("Error loading module: %s\n"%str(e))

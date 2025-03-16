@@ -40,7 +40,7 @@ def main(args):
     TR[0] = so; TR[1] =s1;
 
 
-
+    #Ngen - number of evolutionary steps.
     dF = 1.0; DN = 1.0; Ngen = 50000; DT = 0.2;
 
     #Stationary value for n1 - used to test.
