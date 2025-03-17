@@ -18,7 +18,7 @@ Here is a list of relevant papers describing the model and key features:
 6. *The robustness of the Webworld model to changes in its structure.*
 [Ecological Complexity](https://doi.org/10.1016/j.ecocom.2007.06.012)
 
-7. The characteristics of species in an evolutionary food web model
+7. *The characteristics of species in an evolutionary food web model*
 [J. Theor. Biol.](https://doi.org/10.1016/j.jtbi.2008.02.028)
 
 ## Requisites.
