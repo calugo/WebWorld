@@ -5,20 +5,20 @@ This is a model of co-evolutionary dynamics described and thoroughly studied in 
 Here is a list of relevant papers describing the model and key features:
 
 1. *Modelling coevolution in multispecies communities* - 
-( [J. Theor. Biol.](https://doi.org/10.1006/jtbi.1998.0706) )
+[J. Theor. Biol.](https://doi.org/10.1006/jtbi.1998.0706) 
 
 2. *The influence of predator–prey population dynamics on the long-term evolution of food web structure* - 
-( [J. Theor. Biol.](https://doi.org/10.1006/jtbi.2000.2203) )
-3. *The impact of nonlinear functional responses on the long-term evolution of food web structure.* - 
-( [J. Theor. Biol.](https://doi.org/10.1016/j.jtbi.2004.04.033) )
-4. *Modelling food webs* - ( [Handbook of Graphs and Networks: From the Genome to the Internet](https://doi.org/10.1002/3527602755.ch10) )
-5. *Topological structure and interaction strengths in model food webs.* - 
-( [Ecol. Model.](https://doi.org/10.1016/j.ecolmodel.2004.12.018) )
-6. *The robustness of the Webworld model to changes in its structure.* - 
-( [Ecological Complexity](https://doi.org/10.1016/j.ecocom.2007.06.012) )
+[J. Theor. Biol.](https://doi.org/10.1006/jtbi.2000.2203)
+3. *The impact of nonlinear functional responses on the long-term evolution of food web structure* - 
+[J. Theor. Biol.](https://doi.org/10.1016/j.jtbi.2004.04.033) 
+4. *Modelling food webs* - [Handbook of Graphs and Networks: From the Genome to the Internet](https://doi.org/10.1002/3527602755.ch10)
+5. *Topological structure and interaction strengths in model food webs* - 
+[Ecol. Model.](https://doi.org/10.1016/j.ecolmodel.2004.12.018)
+6. *The robustness of the Webworld model to changes in its structure* - 
+[Ecological Complexity](https://doi.org/10.1016/j.ecocom.2007.06.012)
 
 7. *The characteristics of species in an evolutionary food web model* -
-( [J. Theor. Biol.](https://doi.org/10.1016/j.jtbi.2008.02.028) )
+[J. Theor. Biol.](https://doi.org/10.1016/j.jtbi.2008.02.028)
 
 ## Requisites.
 
