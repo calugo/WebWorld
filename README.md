@@ -76,7 +76,7 @@ The foodweb structures should look like this.
 
 # Webassembly - Panel version.
 
-A live web-version of the code can be found in the link below:
+A live web-version of the code can be found if you click on the image below.
 
 [![ImageHug](assets/HugWEB.png)](https://huggingface.co/spaces/kupkasmale/WebWorld)
 
@@ -84,7 +84,7 @@ The code is the same as the one provided here, but it should run in the browser.
 
 # More
 
-A more detailed and fun discussion of the model and its implementatio, as well as many other interesting topics on physics and simulation can be found on my personal [website](https://calugo.github.io/) 
+A more detailed and fun discussion of the model and its implementation, as well as many other interesting topics on physics and simulation can be found on my [personal website](https://calugo.github.io/) 
 
 
 
