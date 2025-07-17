@@ -65,6 +65,10 @@ The code should run by executing:
 
 # Results and Visualisation.
 
+The following plot shows a typical average of fifty realisations for R = 1e4 and c=0.25.
+
+![Average](assets/RN.png)
+
 The jupyter notebook `fwebs.ipynb` is provided to compute the foodweb structure and plot the results, shown below:
 
 ![Number of Species](assets/joy.gif)
